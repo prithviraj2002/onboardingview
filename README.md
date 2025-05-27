@@ -69,3 +69,12 @@ OnboardingView(
       ),
 ```
 
+## 📸 Screenshots
+
+<img width="370" alt="ss1" src="https://github.com/user-attachments/assets/7e6a8e45-6fb1-44b4-a114-b56989019ee3" />
+
+
+<img width="370" alt="ss2" src="https://github.com/user-attachments/assets/f4003b54-5492-4d2a-a2ff-ed5176a4217c" />
+
+
+<img width="370" alt="ss3" src="https://github.com/user-attachments/assets/a8fc744a-97f4-490e-a7f6-74e7c9f75965" />
