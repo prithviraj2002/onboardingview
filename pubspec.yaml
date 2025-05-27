@@ -1,8 +1,9 @@
-name: onboarding
+name: onboarding_view_plus
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/prithviraj2002/onboardingview?tab=readme-ov-file
 license: MIT
+repository: https://github.com/prithviraj2002/onboardingview?tab=readme-ov-file
 
 
 environment:
@@ -26,9 +27,9 @@ dev_dependencies:
 flutter:
 
   # To add assets to your package, add an assets section, like this:
-   assets:
-     - assets/
-     - assets/images/
+#   assets:
+#     - assets/
+#     - assets/images/
   #
   # For details regarding assets in packages, see
   # https://flutter.dev/to/asset-from-package
