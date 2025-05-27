@@ -1,5 +1,5 @@
 name: onboarding_view_plus
-description: "A new Flutter project."
+description: A customizable Flutter package to display onboarding screens with smooth page transitions, indicators, and action buttons.
 version: 0.0.1
 homepage: https://github.com/prithviraj2002/onboardingview?tab=readme-ov-file
 license: MIT
